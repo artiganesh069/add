@@ -3,8 +3,6 @@ package com.ads.library;
 import android.app.Activity;
 import android.content.Intent;
 import android.widget.LinearLayout;
-import io.jitpack.api.R;
-
 
 public class AdsConfigMaIn {
 

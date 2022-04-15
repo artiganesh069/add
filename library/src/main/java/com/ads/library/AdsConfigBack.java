@@ -21,8 +21,6 @@ import com.google.android.gms.ads.AdListener;
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.material.bottomsheet.BottomSheetDialog;
 
-import io.jitpack.api.R;
-
 
 public class AdsConfigBack {
     Activity context;

@@ -14,8 +14,6 @@ import com.applovin.mediation.ads.MaxInterstitialAd;
 import com.google.ads.mediation.admob.AdMobAdapter;
 import com.google.android.gms.ads.AdListener;
 import com.google.android.gms.ads.AdRequest;
-import io.jitpack.api.R;
-
 
 public class AdsConfigSplash {
     Activity context;

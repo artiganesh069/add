@@ -22,8 +22,6 @@ import com.google.android.gms.ads.appopen.AppOpenAd;
 
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;
-import io.jitpack.api.R;
-
 public class AppOpenAdManager extends AppOpenAd.AppOpenAdLoadCallback implements Application.ActivityLifecycleCallbacks, LifecycleObserver {
     @Retention(RetentionPolicy.SOURCE)
     @IntDef({AppOpenAd.APP_OPEN_AD_ORIENTATION_PORTRAIT, AppOpenAd.APP_OPEN_AD_ORIENTATION_LANDSCAPE})

@@ -31,7 +31,6 @@ import com.google.android.gms.ads.formats.UnifiedNativeAd;
 import com.google.android.gms.ads.formats.UnifiedNativeAdView;
 
 import java.util.List;
-import io.jitpack.api.R;
 
 public class AdsConfigNative {
     Activity context;
